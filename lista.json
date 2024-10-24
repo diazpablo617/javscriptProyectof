@@ -1,0 +1,5 @@
+[
+    { "id": 1, "nombre": "Coca-Cola 1L", "precio": 500, "imagen":"./assets/cocacola1litro.jpg"},
+    { "id": 2, "nombre": "Coca-Cola 2L", "precio": 1000, "imagen":"./assets/cocacola2litros.png"},
+    { "id": 3, "nombre": "Coca-Cola 3L", "precio": 3000, "imagen":"./assets/cocacola3litros.webp"}
+]
